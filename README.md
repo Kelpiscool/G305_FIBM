@@ -1,6 +1,6 @@
 # Logitech G305 FIBM (Fully Integrated Battery Mod)
 
-![G305_lipo_PMIC.png](/Resources/G305_lipo_PMIC.png)
+![G305_lipo_PMIC.png](/Resources/G305_lipo_PMIC_F_2a.png)
 
 ## What is this?
   This is another battery mod for the Logitech G305. This modification is nondestructive and fully reversable.  The AA battery and holder are replaced with a lithium polymer
@@ -39,4 +39,4 @@ Filip of 0x46.net for the high resolution disassembly photos of the G305.<br>
 MatNS and, inornate on Thingiverse.<br>
 Digikey for constantly thinking I am a robot, I wish.😖<br>
 
-![G305_lipo_PMIC_B.png](/Resources/G305_lipo_PMIC_B.png)
+![G305_lipo_PMIC_B.png](/Resources/G305_lipo_PMIC_B_2a.png)
