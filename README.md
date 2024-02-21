@@ -21,7 +21,7 @@ replacement DPI button / battery  holder is 3D printed in this case from clear P
 
   Schematics, PCB, BOM and, GBR files are all attached.  The BOM assumes a 230 mAh battery will be used, if not R1 might have to be changed.  R1 controls the overall charging 
 current which is dictated by the cells overall capacity and the max charge rate usually denoted in C (i.e. 1 C charge rate). The Microchip MCP73832 datasheet contains more information 
-for those interested.  
+for those interested.  For the equivalent battery capacity of a AA battery a lithium-ion battery of at least 1000 mAh is needed with a proportional loss is weight savings.
 
   This project is released under MIT license, there is 0 secret sauce stuff happening here.
 
