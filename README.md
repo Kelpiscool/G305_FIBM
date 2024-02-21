@@ -25,12 +25,15 @@ replacement DPI button / battery  holder is 3D printed from clear PETG, as a res
 ## Notes
   Schematics, PCB, BOM and, GBR files are all attached.  The BOM assumes a 230 mAh battery will be used, if not R1 might have to be changed.  R1 controls the battery charging 
 current which is dictated by the cells overall capacity and the max charge rate usually denoted in C (i.e. 1 C charge rate). The Microchip MCP73832 datasheet contains more information 
-for those interested.  For the equivalent battery capacity of a AA battery a lithium-ion battery of at least 1000 mAh is required.
+for those interested. 
+
+For the equivalent battery capacity of a AA battery a lithium-ion battery of at least 1000 mAh is required.  If you choose to use another lithim-ion cell, ensure that it has a BMS circuit built in.
 
   This project is released under MIT license, there is 0 secret sauce stuff happening here.
 
   ## Thanks
 Thanks to,<br>
+Redditors:<br>
 u/zwiebi for characterizing the Logitech G305’s power draw.<br>
 u/Forty_0ne for the bottom and top cover 3d scans of the Logitech G305.<br>
 Filip of 0x46.net for the high resolution disassembly photos of the G305.<br>
