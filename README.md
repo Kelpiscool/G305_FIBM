@@ -19,8 +19,10 @@ Anecdotally there are users who claim long term (1 year) use of a lithium-ion ba
 ![G305_lipo_PMIC.png](/Resources/g305_FBIM_mockup_point.jpg)
   The board is built around the TPS6224 from Texas Instruments, a DCDC step down converter which is optimized for light load applications like the Logitech G305.  This converter sports a theoretical ~90% efficiency with nominal current draw of the Logitech G305.  Real world testing will need to be carried out to verify this figure.
 
-  This mod requires no drilling or gluing of any logitech components. The magnetic connector is integral to the replacement DPI button which screws into two existing hardpoints for the OEM AA battery holder.  The 
-replacement DPI button / battery  holder is 3D printed from clear PETG, as a result the part acts as a light guide for the DPI indicator.  Bicolor 3d printing would be ideal for this part for better color matching & less light bleed.
+  This mod requires no drilling or gluing of any logitech components. The magnetic connector is integral to the replacement DPI button which screws into two existing hardpoints for the OEM AA battery holder.  
+  
+  As printed the DPI button is a flat which is bent into the final shape after printing.  The 
+replacement DPI button and DPI light guide are two seperate pieces. The DPI button color can be customized to color match the mouse while the light guide is printed in clear PETG. The light guide was optimized in acordance with "3D Printing of Transparent Materials for Optical Applications" by Shaunak B. Gandhi of RIT.
 
 ## Notes
   Schematics, PCB, BOM and, GBR files are all attached.  The BOM assumes a 230 mAh battery will be used, if not R1 might have to be changed.  R1 controls the battery charging 
@@ -29,7 +31,10 @@ for those interested.
 
 For the equivalent battery capacity of a AA battery a lithium-ion battery of at least 1000 mAh is required.  If you choose to use another lithim-ion cell, ensure that it has a BMS circuit built in.
 
-  This project is released under MIT license, there is 0 secret sauce stuff happening here.
+  This project is released under CERN-OHL-P-2.0 license, there is 0 secret sauce stuff happening here.
+
+## Wishlist
+- Lithium-ion battery low voltage indicator. (Multiplexed light pipe with multiple sources? Haptic module?)
 
   ## Thanks
 Thanks to,<br>
@@ -38,6 +43,7 @@ u/zwiebi for characterizing the Logitech G305’s power draw.<br>
 u/Forty_0ne for the bottom and top cover 3d scans of the Logitech G305.<br>
 Filip of 0x46.net for the high resolution disassembly photos of the G305.<br>
 MatNS and, inornate on Thingiverse.<br>
+Matt Gaidica of Gaidi.ca for modelling lithium-ion pouch cell weights and capacity.<br>
 Digikey for constantly thinking I am a robot, I wish.😖<br>
 
 ![G305_lipo_PMIC_B.png](/Resources/G305_lipo_PMIC_B_2a.png)
