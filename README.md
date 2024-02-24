@@ -36,11 +36,11 @@ For the equivalent battery capacity of a AA battery a lithium-ion battery of at 
 ## Wishlist
 - Lithium-ion battery low voltage indicator. (Multiplexed light pipe with multiple sources? Haptic module?)
 
-  ## Thanks
-Thanks to,<br>
+## Thanks to,
 Redditors:<br>
 u/zwiebi for characterizing the Logitech G305’s power draw.<br>
 u/Forty_0ne for the bottom and top cover 3d scans of the Logitech G305.<br>
+<br>
 Filip of 0x46.net for the high resolution disassembly photos of the G305.<br>
 MatNS and, inornate on Thingiverse.<br>
 Matt Gaidica of Gaidi.ca for modelling lithium-ion pouch cell weights and capacity.<br>
