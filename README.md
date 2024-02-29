@@ -11,7 +11,7 @@ extinguishing when charging has completed. With a 230 mAh cell,the mouse has a p
 ## Why is this?
   Previously there was a product on the market which did something similar, however the website no longer online.  As a result, I have made my own version of a G305
 lithium-ion battery modification.  This board contains a lithium-ion charger which allows the battery to be recharged from any common USB supply.  It also crucially contains 
-a DCDC step down converter which creates the proper 1.2V DC that Logitech G305 expects.  There are two DCDC step up converters in the Logitech G305, without knowing the 
+a DCDC step down converter which creates the proper 1.5V DC that Logitech G305 expects.  There are two DCDC step up converters in the Logitech G305, without knowing the 
 exact parts used it is impossible to tell whether they are rated for operation when Vin ≈ Vout or Vin > Vout.  This is not a normal operating condition for most DCDC step up converters.
 Anecdotally there are users who claim long term (1 year) use of a lithium-ion battery without a 1.2 volt regulator to no ill effect however, as the saying goes better safe than sorry.
 
