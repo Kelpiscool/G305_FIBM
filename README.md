@@ -30,7 +30,7 @@ replacement DPI button and DPI light guide are two seperate pieces. The DPI butt
 current which is dictated by the cells overall capacity and the max charge rate usually denoted in C (i.e. 1 C charge rate). The Microchip MCP73832 datasheet contains more information 
 for those interested. 
 
-For the equivalent battery capacity of a AA battery a lithium-ion battery of at least 1000 mAh is required.  If you choose to use another lithim-ion cell, ensure that it has a BMS circuit built in.
+For the equivalent battery capacity of a AA battery a lithium-ion battery of at least 1000 mAh is required.  If you choose to use another lithium-ion cell, ensure that it has a BMS circuit built in.
 
   This project is released under CERN-OHL-P-2.0 license, there is 0 secret sauce stuff happening here.
 
