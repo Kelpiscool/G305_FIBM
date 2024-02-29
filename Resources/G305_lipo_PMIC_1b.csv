@@ -15,7 +15,7 @@ Ancillary Hardware,3d_print,DPI_pusher,https://github.com/Kelpiscool/G305_FIBM/t
 PCB Hardware,PCB,G305_FIBM_PCB_1b,https://github.com/Kelpiscool/G305_FIBM/tree/main/Gerber,,1,
 ,BT1,Battery_Cell,https://www.aliexpress.us/item/3256803481537021.html?,EHAO 701230 3.7V 230mAh,1,
 ,"C1,C2,C4",4.7uF/25V/X5R,https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL21A475KAQNNN,Capacitor_SMD:C_0805_2012Metric,3,
-,C3,33pF/50V/C0G,https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C0805C331J5GACTU,Capacitor_SMD:C_0805_2012Metric,1,
+,C3,33pF/50V/C0G,https://www.kemet.com/en/us/capacitors/ceramic/product/C0805C330J5GACTU.html,Capacitor_SMD:C_0805_2012Metric,1,
 ,C6,10uF/25V/X5R,https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL21A106KAYNNN,Capacitor_SMD:C_0805_2012Metric,1,
 ,D1,YELLOW,https://optoelectronics.liteon.com/upload/download/DS-22-99-0189/LTST-C190KSKT.pdf,LED_SMD:LED_0603_1608Metric,1,
 ,L1,2.2uH,https://ds.yuden.co.jp/TYCOMPAS/ut/detail?pn=LSXND4040TKL2R2MDG&u=M,Inductor_SMD:L_Taiyo-Yuden_NR-40xx_HandSoldering,1,
