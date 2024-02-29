@@ -14,7 +14,6 @@ R1,4K7Ohm/1%,https://www.koaspeer.com/pdfs/RK73H.pdf,Resistor_SMD:R_0603_1608Met
 "R2,R3",1KOhm/1%,https://www.koaspeer.com/pdfs/RK73H.pdf,Resistor_SMD:R_0603_1608Metric,2,
 R4,240KOhm/1%,https://www.koaspeer.com/pdfs/RK73H.pdf,Resistor_SMD:R_0603_1608Metric,1,
 R5,360KOhm/1%,https://www.koaspeer.com/pdfs/RK73H.pdf,Resistor_SMD:R_0603_1608Metric,1,
-"TP1,TP2,TP3","V_BAT,+1.5V,GND",https://www.aliexpress.us/item/3256801657470068.html?,TestPoint:TestPoint_Pad_D1.0mm,3,
 U1,MCP73832,https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf,Package_TO_SOT_SMD:SOT-23-5,1,
 U2,TPS62240DDCR,https://www.ti.com/lit/ds/symlink/tps62240.pdf?,Package_TO_SOT_SMD:SOT-23-5,1,
 M1,Magnetic_connector,https://www.aliexpress.us/item/3256805270752480.html?,5mm_2A,1,
