@@ -1,11 +1,11 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*%
-%TF.CreationDate,2024-02-21T11:50:47-08:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.0*%
+%TF.CreationDate,2024-02-29T12:19:13-08:00*%
 %TF.ProjectId,G305_lipo_PMIC,47333035-5f6c-4697-906f-5f504d49432e,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.1) date 2024-02-21 11:50:47*
+G04 Created by KiCad (PCBNEW 8.0.0) date 2024-02-29 12:19:13*
 %MOMM*%
 %LPD*%
 G01*
