@@ -13,7 +13,7 @@ extinguishing when charging has completed. With a 230 mAh cell,the mouse has a p
 lithium-ion battery modification.  This board contains a lithium-ion charger which allows the battery to be recharged from any common USB supply.  It also crucially contains 
 a DCDC step down converter which creates the proper 1.5V DC that Logitech G305 expects.  There are two DCDC step up converters in the Logitech G305, without knowing the 
 exact parts used it is impossible to tell whether they are rated for operation when Vin ≈ Vout or Vin > Vout.  This is not a normal operating condition for most DCDC step up converters.
-Anecdotally there are users who claim long term (1 year) use of a lithium-ion battery without a 1.2 volt regulator to no ill effect however, as the saying goes better safe than sorry.
+Anecdotally there are users who claim long term (1 year) use of a lithium-ion battery without a 1.5 volt regulator to no ill effect however, as the saying goes better safe than sorry.
 
 ## Implementation
 ![G305_lipo_PMIC.png](/Resources/g305_FBIM_mockup_point.png)
