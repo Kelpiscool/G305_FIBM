@@ -3,6 +3,7 @@
 ![G305_lipo_PMIC.png](/Resources/PNG/G305_lipo_PMIC_F_2a.png)
 
 ## What is this?
+![G305_lipo_PMIC.png](/Resources/PNG/Scope_of_modification.png)
   This is another battery mod for the Logitech G305. This modification is nondestructive and fully reversable.  The AA battery and holder are replaced with a lithium polymer
 cell and power management PCB.  Charging is done by removing the top cover and sticking a mag-safe style connector, an LED indicates the battery is charging 
 extinguishing when charging has completed. With a 230 mAh cell,the mouse has a projected run time of ~30 hours between charges. Charging takes approximately 
