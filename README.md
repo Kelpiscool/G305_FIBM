@@ -1,6 +1,6 @@
 # Logitech G305 FIBM (Fully Integrated Battery Mod)
 
-![G305_lipo_PMIC.png](/Resources/G305_lipo_PMIC_F_2a.png)
+![G305_lipo_PMIC.png](/Resources/PNG/G305_lipo_PMIC_F_2a.png)
 
 ## What is this?
   This is another battery mod for the Logitech G305. This modification is nondestructive and fully reversable.  The AA battery and holder are replaced with a lithium polymer
@@ -16,7 +16,7 @@ exact parts used it is impossible to tell whether they are rated for operation w
 Anecdotally there are users who claim long term (1 year) use of a lithium-ion battery without a 1.5 volt regulator to no ill effect however, as the saying goes better safe than sorry.
 
 ## Implementation
-![G305_lipo_PMIC.png](/Resources/g305_FBIM_mockup_point.png)
+![G305_lipo_PMIC.png](/Resources/PNG/g305_FBIM_mockup_point.png)
   The board is built around the TPS6224 from Texas Instruments, a DCDC step down converter which is optimized for light load applications like the Logitech G305.  This converter sports a theoretical ~90% efficiency with nominal current draw of the Logitech G305.  Real world testing will need to be carried out to verify this figure.
 
   This mod requires no drilling or gluing of any logitech components. The magnetic connector is integral to the replacement DPI button which screws into two existing hardpoints for the OEM AA battery holder.  
@@ -46,4 +46,4 @@ MatNS and, inornate on Thingiverse.<br>
 Matt Gaidica of Gaidi.ca for modelling lithium-ion pouch cell weights and capacity.<br>
 Digikey for constantly thinking I am a robot, I wish.😖<br>
 
-![G305_lipo_PMIC_B.png](/Resources/G305_lipo_PMIC_B_2a.png)
+![G305_lipo_PMIC_B.png](/Resources/PNG/G305_lipo_PMIC_B_2a.png)
