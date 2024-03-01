@@ -34,13 +34,13 @@ For the equivalent battery capacity of a AA battery a lithium-ion battery of at 
 
   This project is released under CERN-OHL-P-2.0 license, there is 0 secret sauce stuff happening here.
 
-  ## Example
+## Example
   -Waiting on components.
 
-## Wishlist
+## Wishlist 🔮
 - Lithium-ion battery low voltage indicator. (Multiplexed light pipe with multiple sources? Haptic module? Digipot to bend Vout down depending on VBAT?)
 
-## Thanks to,
+## Thanks to, 
 Redditors:<br>
 u/zwiebi for characterizing the Logitech G305’s power draw.<br>
 u/Forty_0ne for the bottom and top cover 3d scans of the Logitech G305.<br>
