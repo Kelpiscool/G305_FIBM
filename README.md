@@ -5,8 +5,7 @@
 ## What is this?
 ![G305_lipo_PMIC.png](/Resources/PNG/G305_lipo_PMIC_F_2a.png)
   This is another battery mod for the Logitech G305. This modification is nondestructive and fully reversable.  The AA battery and holder are replaced with a lithium polymer
-cell and power management PCB.  Charging is done by removing the top cover and sticking a mag-safe style connector, an LED indicates the battery is charging 
-extinguishing when charging has completed. With a 230 mAh cell,the mouse has a projected run time of ~30 hours between charges. Charging takes approximately 
+cell and power management PCB.  Charging is done by removing the top cover and sticking a mag-safe style connector, an LED indicates charge cycle. With a 230 mAh cell,the mouse has a projected run time of ~30 hours of continuous use between charges. Charging takes approximately 
 1 hour.  This mod also retains the DPI button and indicator so that functionality is not lost.  
 
 ## Why is this?
@@ -18,7 +17,7 @@ Anecdotally there are users who claim long term (1 year) use of a lithium-ion ba
 
 ## Implementation
 ![G305_lipo_PMIC.png](/Resources/PNG/g305_FBIM_mockup_point.png)
-  The board is built around the TPS6224 from Texas Instruments, a DCDC step down converter which is optimized for light load applications like the Logitech G305.  This converter sports a theoretical ~90% efficiency with nominal current draw of the Logitech G305.  Real world testing will need to be carried out to verify this figure.
+  The board is built around the TPS6224 from Texas Instruments, a DCDC step down converter which is optimized for light load applications.  This converter sports a theoretical ~90% efficiency with nominal current draw of the Logitech G305.  Real world testing will need to be carried out to verify this figure.
 
   This mod requires no drilling or gluing of any logitech components. The magnetic connector is integral to the replacement DPI button which screws into two existing hardpoints for the OEM AA battery holder.  
   
@@ -35,10 +34,15 @@ For the equivalent battery capacity of a AA battery a lithium-ion battery of at 
   This project is released under CERN-OHL-P-2.0 license, there is 0 secret sauce stuff happening here.
 
 ## Example
-  -Waiting on components.
+![Build_001_rev2a.png](/Resources/PNG/Build_001_rev2a.png)
+![Build_002_rev2a.png](/Resources/PNG/Build_002_rev2a.png)
+-Built as specified the mouse weight has reduced from 100 -> 76 grams. (not 1:1 as MB1 / MB2 switches were also replaced & aluminum scroll wheel change)
+
+
 
 ## Wishlist 🔮
-- Lithium-ion battery low voltage indicator. (Multiplexed light pipe with multiple sources? Haptic module? Digipot to bend Vout down depending on VBAT?)
+- Lithium-ion battery low voltage indicator.
+  -Revision 3 will contain circuitry to reduce voltage to the mouse tripping the G305 OEM battery alarm.
 
 ## Thanks to, 
 Redditors:<br>
