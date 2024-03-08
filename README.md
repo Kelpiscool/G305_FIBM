@@ -35,7 +35,7 @@ For the equivalent battery capacity of a AA battery a lithium-ion battery of at 
 
 ## Example
 ![Build_001_rev2a.png](/Resources/PNG/Build_001_rev2a.png)
-![Build_002_rev2a.png](/Resources/PNG/Build_002_rev2a.png)
+![build_002_rev2a.png](/Resources/PNG/build_002_rev2a.png)
 -Built as specified the mouse weight has reduced from 100 -> 76 grams. (not 1:1 as MB1 / MB2 switches were also replaced & aluminum scroll wheel change)
 
 
