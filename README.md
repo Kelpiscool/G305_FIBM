@@ -37,6 +37,7 @@ For the equivalent battery capacity of a AA battery a lithium-ion battery of at 
 ![Build_001_rev2a.png](/Resources/PNG/Build_001_rev2a.png)
 (Mouse charging image also in Resources/PNG/)
 -Built as specified the mouse weight has reduced from 100 -> 76 grams. (not 1:1 as MB1 / MB2 switches were also replaced & aluminum scroll wheel change)
+-Ender 3 could not handle printing a 2mm rod, substitued with polystyrene rod. In practice any 2 mm diameter rod will work.
 
 
 
