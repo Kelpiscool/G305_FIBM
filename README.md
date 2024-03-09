@@ -17,7 +17,7 @@ Anecdotally there are users who claim long term (1 year) use of a lithium-ion ba
 
 ## Implementation
 ![G305_lipo_PMIC.png](/Resources/PNG/g305_FBIM_mockup_point.png)
-  The board is built around the TPS6224 from Texas Instruments, a DCDC step down converter which is optimized for light load applications.  This converter sports a theoretical ~90% efficiency with nominal current draw of the Logitech G305.  Real world testing will need to be carried out to verify this figure.
+  The board is built around the TPS6224 from Texas Instruments, a DCDC step down converter which is optimized for light load applications.  This converter sports a theoretical ~90% efficiency with nominal current draw of the Logitech G305.  Real world testing will need to be carried out to verify this figure.  All components and footprints have been optimized for hand solering (0605/0805 passives & large footprint for inductor).
 
   This mod requires no drilling or gluing of any logitech components. The magnetic connector is integral to the replacement DPI button which screws into two existing hardpoints for the OEM AA battery holder.  
   
@@ -36,7 +36,7 @@ For the equivalent battery capacity of a AA battery a lithium-ion battery of at 
 ## Example
 ![Build_001_rev2a.png](/Resources/PNG/Build_001_rev2a.png)
 (Mouse charging image also in Resources/PNG/)<br>
--Built as specified the mouse weight has reduced from 100 -> 76 grams. (not 1:1 as MB1 / MB2 switches were also replaced & aluminum scroll wheel change)<br>
+-Built as specified the mouse weight has reduced from 100 -> 76 grams. (not 1:1 as MB1 / MB2 switches were also replaced, aluminum scroll wheel, new skates)<br>
 -Ender 3 could not handle printing a 2mm rod, substitued with polystyrene rod. In practice any 2 mm diameter rod will work.<br>
 
 
